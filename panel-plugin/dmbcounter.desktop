@@ -1,0 +1,12 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=DMB Counter
+Name[ru]=Дни до дембеля
+Comment=Shows how many days left to serve in the army.
+Comment[ru]=Показывает сколько дней осталось служить в армии
+Icon=security-low
+X-XFCE-Module=dmb
+X-XFCE-Internal=FALSE
+X-XFCE-Unique=true
+X-XFCE-API=2.0
